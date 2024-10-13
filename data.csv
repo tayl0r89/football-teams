@@ -93,7 +93,7 @@ TeamID,Team,Country,ShirtStyle,PColor,SColor,Alias1,Alias2,Alias3,Alias4
 92,TRR,GB-ENG,FILL,FFFFFF,,Tranmere,Tranmere Rovers,,
 93,WSL,GB-ENG,FILL,FF0000,,Walsall,,,
 94,WAT,GB-ENG,VSTRIPE,fcde2e,000000,Watford,,,
-95,WBA,GB-ENG,VSTRIPE,91453,000000,West Brom,West Bromwich Albion,,
+95,WBA,GB-ENG,VSTRIPE,091453,FFFFFF,West Brom,West Bromwich Albion,,
 96,WHU,GB-ENG,SLEEVE,7EBFFF,B1D5EF,West Ham,West Ham United,,
 97,WIG,GB-ENG,VSTRIPE,0000FF,FFFFFF,Wigan,Wigan Athletic,,
 98,WLV,GB-ENG,FILL,FDB913,,Wolves,Wolverhampton Wanderers,,
