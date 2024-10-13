@@ -11,7 +11,7 @@ TeamID,Team,Country,ShirtStyle,PColor,SColor,Alias1,Alias2,Alias3,Alias4
 10,BLK,GB-ENG,FILL,FF7700,,Blackpool,,,
 11,BOL,GB-ENG,FILL,FFFFFF,,Bolton,Bolton Wanderers,,
 12,BOU,GB-ENG,FILL,FF0000,,Bournemouth,AFC Bournemouth,,
-13,BDC,GB-ENG,HSTRIPE,FFFFFF,01A359,Bradford,Bradford City,Bradford C,
+13,BDC,GB-ENG,HALF,FFFFFF,01A359,Bradford,Bradford City,Bradford C,
 14,BRE,GB-ENG,VSTRIPE,FF0000,FFFFFF,Brentford,,,
 15,BRH,GB-ENG,VSTRIPE,FFFFFF,0000FF,Brighton,Brighton & Hove Albion,,
 16,BSC,GB-ENG,VSTRIPE,FF0000,FFFFFF,Bristol City,Bristol C,,
